@@ -1,0 +1,25 @@
+.hidden {
+  display: none;
+}
+
+.container {
+  max-width: 750px;
+  margin:10vh auto 0 auto;
+}
+
+#image {
+  	margin: 0;
+	position: relative;
+	width: 620px;
+  	height: 250px;
+  	display: inline-block;
+}
+
+#img{
+	position: absolute;	
+}
+a {
+  font-size: 64px;
+  text-decoration: none;
+  vertical-align: middle;
+}
